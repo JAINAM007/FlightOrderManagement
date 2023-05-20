@@ -1,0 +1,10 @@
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\bin\Debug\FlightOrderManagementSystem.exe.config
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\bin\Debug\FlightOrderManagementSystem.exe
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\bin\Debug\FlightOrderManagementSystem.pdb
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\obj\Debug\FlightOrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\obj\Debug\FlightOrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\obj\Debug\FlightOrderManagementSystem.csproj.CopyComplete
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\obj\Debug\FlightOrderManagementSystem.exe
+C:\Users\Jainamuser\source\repos\FlightOrderManagementSystem\FlightOrderManagementSystem\obj\Debug\FlightOrderManagementSystem.pdb
